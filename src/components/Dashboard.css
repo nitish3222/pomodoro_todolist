@@ -1,0 +1,24 @@
+.dashboard-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dashboard-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-metric {
+    margin-bottom: 5px;
+  }
+  
+  .dashboard-metric-label {
+    font-weight: bold;
+  }
+  
+  .dashboard-metric-value {
+    font-size: 18px;
+  }
